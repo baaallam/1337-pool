@@ -70,3 +70,6 @@ gcc -Wall -Wextra -Werror main.c ft_putchar.c -o test
 ```
 ## ⚠️ Disclaimer
 _Academic Integrity Notice :  If you are currently swimming in a 1337 / 42 Piscine, do not blindly copy-paste this code. Peer evaluations require you to explain every single line of your logic. Understand the concepts, test edge cases yourself, and pass the tests on your own merit._
+
+
+> 🏊‍♂️ **1337 Pool** • Intra: `kbaaalla` • Cluster: `c3r1p14` • 1337 Rabat Um6p Morocco  🇲🇦
