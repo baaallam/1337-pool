@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 <div align="center">
 
 # 🏊‍♂️ 1337 Coding School — Piscine C & Shell
