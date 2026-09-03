@@ -59,7 +59,8 @@ To test the norm compliance locally:
 norminette -R CheckForbiddenSourceHeader
 ```
 ## 🛠️ Compilation & Testing
-To compile any specific project (e.g., inside C00/ex00):
+
+_To compile any specific project (e.g., inside C00/ex00):_
 ```
 # Compile with mandatory strict 1337 flags
 gcc -Wall -Wextra -Werror main.c ft_putchar.c -o test
