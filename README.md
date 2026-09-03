@@ -58,7 +58,7 @@ To test the norm compliance locally:
 ```bash
 norminette -R CheckForbiddenSourceHeader
 ```
-##🛠️ Compilation & Testing
+## 🛠️ Compilation & Testing
 To compile any specific project (e.g., inside C00/ex00):
 ```
 # Compile with mandatory strict 1337 flags
